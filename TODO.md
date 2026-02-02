@@ -1,0 +1,2 @@
+- [ ] Update routing logic in login.ts to check for 'agent' role specifically
+- [ ] Add handling for null or invalid roles by setting error and redirecting to login
